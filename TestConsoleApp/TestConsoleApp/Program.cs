@@ -18,6 +18,7 @@ namespace TestConsoleApp
             Person Martyniuk = new Person() { ID = 1488, Name = "Roman" };
             
             Person Liatsevych = new Person() { ID = 111, Name = "Gandon" };
+            Person GanDon = new Person() { ID = 2000, Name = "Po Nos" };
             //slava ukraine
         }
     }

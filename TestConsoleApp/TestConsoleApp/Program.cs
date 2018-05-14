@@ -12,6 +12,7 @@ namespace TestConsoleApp
         {
             Person a = new Person() { ID = 1, Name = "Vasyan" };
             Person MocshneischaPerson = new Person() { ID = 1, Name = "Dimasic" };
+            Person b = new Person() { ID = 3, Name = "De Bill" };
         }
     }
 }

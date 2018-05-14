@@ -15,7 +15,7 @@ namespace TestConsoleApp
             Person b = new Person() { ID = 3, Name = "De Bill" };
             Person Mykytyuk = new Person() { ID = 100, Name = "Sasha" };
 			Person p = new Person() { ID = 7, Name = "Vitaly" };
-            Person Martyniuk = new Person() { ID = 1488, Name = "Roman" };            
+            Person Martyniuk = new Person() { ID = 1488, Name = "Roman" };
         }
     }
 }

@@ -20,6 +20,9 @@ namespace TestConsoleApp
             Person Liatsevych = new Person() { ID = 111, Name = "Gandon" };
             Person GanDon = new Person() { ID = 2000, Name = "Po Nos" };
             //slava ukraine
+
+            Console.WriteLine("Hello");
+
         }
     }
 }

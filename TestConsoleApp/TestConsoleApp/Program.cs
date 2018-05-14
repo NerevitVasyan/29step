@@ -10,7 +10,7 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello git");
+            Person a = new Person() { ID = 1, Name = "Vasyan" };
         }
     }
 }
